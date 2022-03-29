@@ -1,0 +1,3 @@
+kita melakukan percobaan push via github desktop
+
+sudah berhasil melakukan push via github desktop, saatnya Kita melakukan edit file 
